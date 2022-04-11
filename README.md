@@ -12,4 +12,4 @@ Week | insights | repl code | review ticket
 
 
 ## Video for final review:
-google drive link: [https://drive.google.com/drive/u/0/folders/1lIq2ujxeRQA5RZEuW6i2OlcYX5E2i5QB](https://drive.google.com/drive/u/0/folders/1lIq2ujxeRQA5RZEuW6i2OlcYX5E2i5QB}
+google drive link: (https://drive.google.com/drive/u/0/folders/1lIq2ujxeRQA5RZEuW6i2OlcYX5E2i5QB)
