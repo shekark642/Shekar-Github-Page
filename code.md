@@ -2,10 +2,6 @@
 
 ### Repl Code
 
-<iframe
-  src="https://replit.com/@shekark642"
-  style="width:100%; height:300px;"
-></iframe>
 
 ### Github code
 
