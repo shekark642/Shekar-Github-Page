@@ -19,8 +19,8 @@ Object Oriented programming (OOP) is a programming paradigm that relies on the c
 
 - Defining Classes with a Constructor and Instance variables
 - Protecting information through Encapsulation (setters, getters)
- -Extending Classes to maximize code reuse
- -Creating subclass-specific behavior through polymorphism
+- Extending Classes to maximize code reuse
+- Creating subclass-specific behavior through polymorphism
 
 ## FRQ Terms
 
