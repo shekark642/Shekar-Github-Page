@@ -1,27 +1,28 @@
+{% include navigation.html %}
 
 
-There are many algorithms for different purposes and they interact with different data structures. Think of algorithms as dynamic underlying pieces that interact with data structures. Together, data structures and algorithms combine and allow programmers to build whatever computer programs they’d like. Well managed data structures and algorithms ensures well-optimized and efficient code.
+## Tech talk 1
+
+There are many algorithms for different purposes and they interact with different data structures. algorithms as dynamic underlying pieces that interact with data structures.  Well managed data structures and algorithms ensures well-optimized and efficient code.
 
 Programming Paradigms:
-Data Structures and Algorithms can be written using different paradigms. A paradigm is an approach or a methodology or a strategy to be followed for writing software applications.
+Data Structures and Algorithms can be written using different paradigms. A paradigm is an approach or a methodology or a strategy for writing software applications.
 
 Imperative Paradigm
-In computer science, imperative programming is a programming paradigm that uses statements that change a program's state. An imperative program consists of commands for the computer to perform to achieve a result. Imperative programming focuses on describing "how" a program code works.
+In computer science, imperative programming is a programming paradigm that uses statements that change a program's state. An imperative program consists of commands for the computer to perform to achieve a result. 
 
-Procedural programming is a type of imperative programming in which the program is built from one or more procedures (also termed subroutines or functions). Structured programming or modular programming in general have been promoted as techniques to improve the maintainability and overall quality of imperative programs.
+Procedural programming is a type of imperative programming in which the program is built from one or more procedures 
 
-Python, which many used last year, is mostly know for its Procedural paradigm. Python is a versatile programming language with many user-defined data structures and algorithms.
 
 Object Oriented Paradigm
 Object Oriented programming (OOP) is a programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects.
 
-OOP models complex things as reproducible, simple structures. Reusable, OOP classes can be used across programs by simply making an object. We have learned about many key aspects of OOP.
+- Defining Classes with a Constructor and Instance variables
+- Protecting information through Encapsulation (setters, getters)
+ -Extending Classes to maximize code reuse
+ -Creating subclass-specific behavior through polymorphism
 
-Defining Classes with a Constructor and Instance variables
-Protecting information through Encapsulation (setters, getters)
-Extending Classes to maximize code reuse
-Creating subclass-specific behavior through polymorphism
-
+## FRQ Terms
 
 **Casting, specifically for Division**
 If you set an integer variable equal to the division of  two integers with a remainder, the integer value of the answer will only remain
@@ -278,6 +279,8 @@ Stands for Create, Read, Update, and delete representing the four basic processe
 Requires a POJO Java class connected to a sql repository
 https://github.com/shekark642/slackbots-p2/blob/master/src/main/java/com/nighthawk/csa/data/SQL/Game.java#L33 
 
+
+## Old TPT Notes (unformatted)
 
 
 TPT Notes:
