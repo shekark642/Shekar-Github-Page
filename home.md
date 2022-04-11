@@ -2,11 +2,11 @@
 
 # Shekar Individual Github Pages
 
-[week 3 review ticket](https://github.com/shekark642/M221p2-roopies/issues/43)
+[week 3 review ticket](https://github.com/shekark642/M221p2-roopies/issues/47)
+[week 2 review ticket](https://github.com/shekark642/M221p2-roopies/issues/36)
+[week 1 review ticket](https://github.com/shekark642/M221p2-roopies/issues/29)
 
-[Challenge key takeaways](https://github.com/shekark642/M221p2-roopies/wiki/wek-3-calc-review-page)
-
-[Code](https://replit.com/@shekark642/shekar-code#Calculator.java)
+[Repl Code](https://replit.com/@shekark642)
 
 
 
