@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Shekar Individual Github Pages
 
 [week 3 review ticket](https://github.com/shekark642/M221p2-roopies/issues/43)
