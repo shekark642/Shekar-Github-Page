@@ -11,5 +11,8 @@ Week | insights | repl code | review ticket
 0   | [Tech Talk/ FRQ/ TPT Notes](https://shekark642.github.io/Shekar-Github-Page/techtalks) | [no code projects for this week](https://replit.com/@shekark642) | [week 0 review ticket](https://github.com/shekark642/M221p2-roopies/issues/29) |
 
 
-## Video for final review:
+### Video for final review:
 google drive link: [https://drive.google.com/drive/u/0/folders/1lIq2ujxeRQA5RZEuW6i2OlcYX5E2i5QB](https://drive.google.com/drive/u/0/folders/1lIq2ujxeRQA5RZEuW6i2OlcYX5E2i5QB)
+
+### Link to final review ticket
+Link to ticket issue: [https://github.com/shekark642/M221p2-roopies/issues/50](https://github.com/shekark642/M221p2-roopies/issues/50)
